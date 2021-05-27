@@ -1,0 +1,17 @@
+.logo {
+	width: 45px;
+	height: 45px;
+}
+.nav-item{
+	padding-left: 40px;
+	padding-right: 40px;
+    transition: all 0.2s ease-in;
+
+    &:hover {
+      transform: translateY(-4px);
+}
+}
+
+.size {
+	font-size: 22px;
+}
